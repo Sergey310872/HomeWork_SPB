@@ -1,0 +1,26 @@
+# Log file
+*.log
+
+# Bloej files
+*.ctxt
+
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+hs_err_pid*
+
+*.class
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
